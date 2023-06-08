@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.epicgames.com%2FsalesEvent%2FsalesEvent%2Famoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075&tbnid=LJZ51kLJsB2mlM&vet=12ahUKEwjo_KG817L_AhWSB0QIHRXkDjkQMygCegUIARDtAQ..i&imgrefurl=https%3A%2F%2Fstore.epicgames.com%2Fen-US%2Fp%2Famong-us&docid=y-e8nroyM8r_gM&w=2560&h=1440&q=among%20us&ved=2ahUKEwjo_KG817L_AhWSB0QIHRXkDjkQMygCegUIARDtAQ); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.wallpapersafari.com/25/14/Dljuh1.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
